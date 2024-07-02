@@ -2,14 +2,14 @@ import React, { useEffect, useState } from "react";
 import { gsap } from "gsap";
 import "./App.css";
 
-import Image1 from "./assets/img1.jpg";
-import Image2 from "./assets/img2.jpg";
-import Image3 from "./assets/img3.jpg";
-import Image4 from "./assets/img4.jpg";
-import Image5 from "./assets/img5.jpg";
-import Image6 from "./assets/img6.jpg";
-import Image7 from "./assets/img7.jpg";
-import Image8 from "./assets/img8.jpg";
+import Image1 from "./assets/img1.avif";
+import Image2 from "./assets/img2.avif";
+import Image3 from "./assets/img3.avif";
+import Image4 from "./assets/img4.avif";
+import Image5 from "./assets/img5.avif";
+import Image6 from "./assets/img6.avif";
+import Image7 from "./assets/img7.avif";
+import Image8 from "./assets/img8.avif";
 
 const images = [Image1, Image2, Image3, Image4, Image5, Image6, Image7, Image8];
 const totalSlides = images.length - 1;
